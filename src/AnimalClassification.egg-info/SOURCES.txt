@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+src/AnimalClassification/__init__.py
+src/AnimalClassification.egg-info/PKG-INFO
+src/AnimalClassification.egg-info/SOURCES.txt
+src/AnimalClassification.egg-info/dependency_links.txt
+src/AnimalClassification.egg-info/top_level.txt
+src/AnimalClassification/component/__init__.py
+src/AnimalClassification/constant/__init__.py
+src/AnimalClassification/entity/__init__.py
+src/AnimalClassification/pipeline/__init__.py
+src/AnimalClassification/utils/__init__.py
