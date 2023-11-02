@@ -1,0 +1,1 @@
+from AnimalClassifications.config.configuration import ConfigurationManager
