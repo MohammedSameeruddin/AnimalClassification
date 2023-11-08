@@ -1,1 +1,2 @@
 from AnimalClassifications.entity.config_entity import DataIngestionConfig
+from AnimalClassifications.entity.config_entity import PrepareBaseModelConfig
